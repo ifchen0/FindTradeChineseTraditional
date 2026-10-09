@@ -20,7 +20,7 @@ Terms follow the vanilla Traditional Chinese translation.
 [*]Load after Find / Trade.
 [*]Safe to add to or remove from an existing save.
 [*]A few labels (for example [i]Import: / Export: / Mode:[/i] and [i]Select traders[/i]) are hardcoded in the original mod and stay in English.
-[*]The Find window and its filters come from TD Find Lib. Use [url=https://steamcommunity.com/sharedfiles/filedetails/?id=TDFINDLIB_ID]TD Find Lib - Chinese (Traditional)[/url] to translate that part.
+[*]The Find window and its filters come from TD Find Lib. Use [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3816260925]TD Find Lib - Chinese (Traditional)[/url] to translate that part.
 [/list]
 [hr][/hr]
 This translation was made with the help of AI tools (Claude Code). Translation files are included in the Languages folder and on [url=https://github.com/ifchen0/FindTradeChineseTraditional]GitHub[/url] for review.

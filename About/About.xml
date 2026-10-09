@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Find / Trade - Chinese (Traditional)</name>
+	<name>Find / Trade &amp; TD Find Lib - Chinese (Traditional)</name>
 	<author>ifchen0</author>
 	<packageId>ifchen0.findandtrade.chinesetraditional</packageId>
 	<url>https://github.com/ifchen0/FindTradeChineseTraditional</url>
 	<supportedVersions>
 		<li>1.6</li>
 	</supportedVersions>
-	<description>Traditional Chinese (繁體中文) translation for Find / Trade by Meme Goddess.
+	<description>Traditional Chinese (繁體中文) translation for Find / Trade by Meme Goddess and the TD Find Lib - Continued library it is built on.
 
-Translates the trade rules, letters, settings, the Find / Trade tab and the related defs (work type, job, find filters). Terms follow the vanilla Traditional Chinese translation.
+Translates the trade rules, letters, settings and the Find / Trade tab, plus the whole Find window: search library, all filter names and options, including the Royalty, Ideology, Biotech and Odyssey filters (loaded only when that expansion is active). Terms follow the vanilla Traditional Chinese translation.
 
-Load after Find / Trade. Safe to add to or remove from an existing save. A few labels are hardcoded in the original mod and stay in English. The Find window itself comes from TD Find Lib, which has its own translation mod.</description>
+Load after Find / Trade. Safe to add to or remove from an existing save. A few labels are hardcoded in Find / Trade and stay in English.</description>
 	<modDependencies>
 		<li>
 			<packageId>Memegoddess.FindAndTrade</packageId>
@@ -20,6 +20,7 @@ Load after Find / Trade. Safe to add to or remove from an existing save. A few l
 		</li>
 	</modDependencies>
 	<loadAfter>
+		<li>Memegoddess.TDFindLib</li>
 		<li>Memegoddess.FindAndTrade</li>
 	</loadAfter>
 </ModMetaData>

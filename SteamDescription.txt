@@ -1,26 +1,25 @@
-Traditional Chinese (繁體中文) translation for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3736861965]Find / Trade[/url] by Meme Goddess.
+Traditional Chinese (繁體中文) translation for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3736861965]Find / Trade[/url] by Meme Goddess, including the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3529443295]TD Find Lib - Continued[/url] library it is built on.
 
-為 Meme Goddess 的 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3736861965]Find / Trade[/url] 提供繁體中文翻譯。
+為 Meme Goddess 的 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3736861965]Find / Trade[/url] 提供繁體中文翻譯，也包含它所使用的 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3529443295]TD Find Lib - Continued[/url]。
 
 [h2]What is translated[/h2][list]
-[*]Trade rules, modes and their tooltips
-[*]Trade letters, mod settings and the Find / Trade tab
-[*]Related defs (work type, job, trade filters)
+[*]Find / Trade: trade rules, modes and their tooltips, trade letters, mod settings and the Find / Trade tab
+[*]TD Find Lib: the Find window, the saved search library, all filter names, options and warnings
+[*]Royalty, Ideology, Biotech and Odyssey filters (loaded only when that expansion is active)
 [/list]
-Terms follow the vanilla Traditional Chinese translation.
+Terms follow the vanilla Traditional Chinese translation. Odyssey has no official Traditional Chinese translation, so its terms use common community names.
 
 [h2]翻譯範圍[/h2][list]
-[*]交易規則、交易模式與說明
-[*]交易信件、模組設定與「尋找／交易」分頁
-[*]相關的 Def（工作類型、工作、交易篩選條件）
+[*]Find / Trade：交易規則、交易模式與說明、交易信件、模組設定與「尋找／交易」分頁
+[*]TD Find Lib：搜尋視窗、已儲存的搜尋庫、所有篩選條件的名稱、選項與警告
+[*]皇權、理念、生機與漫遊的篩選條件（只在啟用該擴充時載入）
 [/list]
-用詞依照原版遊戲的繁體中文翻譯。
+用詞依照原版遊戲的繁體中文翻譯。漫遊沒有官方繁體中文翻譯，相關用詞採用社群常見譯名。
 
 [h2]Notes[/h2][list]
 [*]Load after Find / Trade.
 [*]Safe to add to or remove from an existing save.
-[*]A few labels (for example [i]Import: / Export: / Mode:[/i] and [i]Select traders[/i]) are hardcoded in the original mod and stay in English.
-[*]The Find window and its filters come from TD Find Lib. Use [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3816260925]TD Find Lib - Chinese (Traditional)[/url] to translate that part.
+[*]A few labels (for example [i]Import: / Export: / Mode:[/i] and [i]Select traders[/i]) are hardcoded in Find / Trade and stay in English.
 [/list]
 [hr][/hr]
 This translation was made with the help of AI tools (Claude Code). Translation files are included in the Languages folder and on [url=https://github.com/ifchen0/FindTradeChineseTraditional]GitHub[/url] for review.

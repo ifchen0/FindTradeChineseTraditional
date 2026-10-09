@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Find / Trade - Chinese (Traditional)</name>
+	<author>ifchen0</author>
+	<packageId>ifchen0.findandtrade.chinesetraditional</packageId>
+	<url>https://github.com/ifchen0/FindTradeChineseTraditional</url>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<description>Traditional Chinese (繁體中文) translation for Find / Trade by Meme Goddess.
+
+Translates the trade rules, letters, settings, the Find / Trade tab and the related defs (work type, job, find filters). Terms follow the vanilla Traditional Chinese translation.
+
+Load after Find / Trade. Safe to add to or remove from an existing save. A few labels are hardcoded in the original mod and stay in English. The Find window itself comes from TD Find Lib, which has its own translation mod.</description>
+	<modDependencies>
+		<li>
+			<packageId>Memegoddess.FindAndTrade</packageId>
+			<displayName>Find / Trade</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/3736861965</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Memegoddess.FindAndTrade</li>
+	</loadAfter>
+</ModMetaData>

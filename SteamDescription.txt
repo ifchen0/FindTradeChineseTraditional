@@ -21,5 +21,6 @@ Terms follow the vanilla Traditional Chinese translation. Odyssey has no officia
 [*]Safe to add to or remove from an existing save.
 [*]A few labels (for example [i]Import: / Export: / Mode:[/i] and [i]Select traders[/i]) are hardcoded in Find / Trade and stay in English.
 [/list]
+I made this because I wanted to play Find / Trade and no Traditional Chinese translation existed yet. If anyone would like to take over the translation, you are welcome to.
 [hr][/hr]
 This translation was made with the help of AI tools (Claude Code). Translation files are included in the Languages folder and on [url=https://github.com/ifchen0/FindTradeChineseTraditional]GitHub[/url] for review.
